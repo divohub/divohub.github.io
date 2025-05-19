@@ -1,3 +1,79 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "/"
+title = "Music and Sound Design"
+theme = "hello-friend-ng"
+environment = "production"
+
+[params]
+  # Main sections of your site
+  mainSections = ["works", "posts"]
+  
+  # Theme features
+  enableThemeToggle = true
+  enableSharingButtons = true
+  enableReadingTime = true
+  enableGitInfo = false
+  
+  # Content
+  contentTypeName = "posts"
+  defaultTheme = "dark"
+  dateform = "Jan 2, 2006"
+  dateformShort = "Jan 2"
+  dateformNum = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  # Subtitle for home
+  homeSubtitle = "Creating distinctive soundscapes to enhance your visual projects"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = true
+
+  # Metadata mostly used in document's head
+  description = "Music and Sound Design Portfolio"
+  keywords = "music, sound design, portfolio"
+  images = [""]
+
+  # Custom colors
+  [params.colors]
+    background = "#000505"
+    foreground = "#bfcde0"
+    primary = "#3b3355"
+
+  [params.footer]
+    trademark = true
+    rss = false
+    copyright = true
+    author = true
+
+    topText = []
+    bottomText = []
+
+  # Colors for favicons
+  [params.favicon.color]
+    mask = "#000505"
+    msapplication = "#000505"
+    theme = "#000505"
+
+[params.portrait]
+  path = ""
+  alt = ""
+
+[languages]
+  [languages.en]
+    title = "Music and Sound Design"
+    subtitle = "Sound Designer & Composer"
+    copyright = "© 2024 All Rights Reserved"
+
+    [languages.en.params.logo]
+      logoText = "divosound"
+      logoHomeLink = "/"
+
+# Social icons
+[[params.social]]
+  name = "email"
+  url  = "mailto:your@email.com"
+
+[params.Logo]
+logoText = "divosound"
+logoMark = ">"
+logoCursorColor = "#254441"
+logoCursorAnimate = "1s"

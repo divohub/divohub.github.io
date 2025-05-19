@@ -1,0 +1,26 @@
+{{ $works := slice }}
+{{ range .Site.RegularPages }}
+    {{ if eq .Type "works" }}
+        {{ $works = $works | append . }}
+    {{ end }}
+{{ end }}
+
+<div class="works-grid">
+    {{ range $works }}
+    <div class="work-item">
+        <h3>{{ .Title }}</h3>
+        {{ if .Params.video }}
+        <div class="video-container">
+            <iframe src="{{ .Params.video }}"
+                allow="autoplay; fullscreen; picture-in-picture"
+                frameborder="0"
+                allowfullscreen>
+            </iframe>
+        </div>
+        {{ end }}
+        <div class="work-description">
+            {{ .Content }}
+        </div>
+    </div>
+    {{ end }}
+</div>

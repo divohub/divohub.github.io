@@ -1,0 +1,12 @@
+INFO 2025/05/19 15:47:05 syncing static files to /
+DEBUG 2025/05/19 15:47:05 Render page Music and sound design to "/index.html"
+DEBUG 2025/05/19 15:47:05 Render page Categories to "/categories/index.html"
+DEBUG 2025/05/19 15:47:05 Render page Tags to "/tags/index.html"
+DEBUG 2025/05/19 15:47:05 Render XML for "sitemap" to "/sitemap.xml"
+DEBUG 2025/05/19 15:47:05 Render page Music and sound design to "/index.xml"
+DEBUG 2025/05/19 15:47:05 Render page Categories to "/categories/index.xml"
+DEBUG 2025/05/19 15:47:05 Render page Tags to "/tags/index.xml"
+LOG:   2025/05/19 15:47:05 Built in 2 ms
+LOG:   2025/05/19 15:47:05 Watching for config changes in /home/divo/portfolio-site/config.toml
+DEBUG 2025/05/19 15:47:26 Render page Music and sound design to "/index.html"
+DEBUG 2025/05/19 15:47:26 Render page Music and sound design to "/index.xml"

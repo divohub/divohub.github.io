@@ -1,0 +1,10 @@
+.video-container {
+    margin: 2rem 0;
+  }
+  
+  .works-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin: 2rem 0;
+  }
