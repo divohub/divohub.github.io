@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Music and Sound Design</title>
-    <link>/</link>
-    <description>Recent content on Music and Sound Design</description>
+    <title>Works on Music and Sound Design</title>
+    <link>/works/</link>
+    <description>Recent content in Works on Music and Sound Design</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>© 2024 All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="/works/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Yandex Qatar - Music &amp; Sound Design</title>
       <link>/works/1-yandex-qatar/</link>

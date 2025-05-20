@@ -1,0 +1,32 @@
+/* Стили для заголовка поста */
+.post-title {
+    margin-bottom: 2rem !important;
+    font-size: 1.5rem !important;
+    font-weight: 600 !important;
+}
+
+/* Стили для контента поста */
+.post-content {
+    margin-top: 2rem !important;
+    font-size: 1rem !important;
+    line-height: 1.6 !important;
+}
+
+/* Стили для видео */
+.video-container {
+    margin: 2rem 0 !important;
+    border-radius: 8px !important;
+    overflow: hidden !important;
+}
+
+/* Стили для основного контейнера поста */
+.post {
+    max-width: 800px !important;
+    margin: 0 auto !important;
+    padding: 1.8rem 0 !important;
+}
+
+/* Стили для статьи */
+article {
+    margin-bottom: 3rem !important;
+}

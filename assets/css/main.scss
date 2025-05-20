@@ -94,4 +94,14 @@ body {
     .content .works-grid {
         grid-template-columns: 1fr;
     }
+}
+
+.work-item {
+    h3 {
+        margin-bottom: 30rem;
+    }
+    
+    .video-container {
+        margin: 2rem 0;
+    }
 } 

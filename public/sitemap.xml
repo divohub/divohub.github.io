@@ -1,1 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>/</loc><lastmod>2024-03-19T00:00:00+00:00</lastmod></url><url><loc>/categories/</loc></url><url><loc>/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>/works/1-yandex-qatar/</loc>
+    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/works/2-work-1/</loc>
+    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/works/3-work-2/</loc>
+    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/works/4-work-3/</loc>
+    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/works/8-work-7/</loc>
+    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/works/5-work-4/</loc>
+    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/works/6-work-5/</loc>
+    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/works/7-work-6/</loc>
+    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/works/</loc>
+    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/tags/</loc>
+  </url>
+</urlset>
