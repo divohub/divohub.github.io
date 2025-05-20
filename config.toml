@@ -61,19 +61,33 @@ environment = "production"
   [languages.en]
     title = "Music and Sound Design"
     subtitle = "Sound Designer & Composer"
-    copyright = "© 2024 All Rights Reserved"
+    copyright = "© 2025 All Rights Reserved"
 
     [languages.en.params.logo]
       logoText = "divosound"
       logoHomeLink = "/"
 
+# Menu configuration
+[menu]
+  [[menu.main]]
+    identifier = "works"
+    name = "Works"
+    url = "/"
+    weight = 2
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact"
+    weight = 4
+
 # Social icons
 [[params.social]]
   name = "email"
-  url  = "mailto:your@email.com"
+  url  = "mailto:hihi@divosound.com"
 
 [params.Logo]
-logoText = "divosound"
-logoMark = ">"
-logoCursorColor = "#254441"
-logoCursorAnimate = "1s"
+  LogoHomeLink = "/"
+  logoText = "divosound"
+  logoCursorColor = "#254441"
+  logoCursorAnimate = "1s"
+
