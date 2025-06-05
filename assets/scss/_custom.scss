@@ -1,0 +1,13 @@
+.work-item {
+    h3 {
+        margin-bottom: 3rem !important;  // Используем !important чтобы переопределить стили темы
+    }
+    
+    .video-container {
+        margin: 1.5rem 0 !important;
+    }
+    
+    .work-description {
+        margin-top: 1.5rem !important;
+    }
+}   
