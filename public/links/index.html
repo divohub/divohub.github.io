@@ -134,13 +134,23 @@
             <div class="post-content">
                 
 <style>
-/* Полностью скрываем заголовок страницы */
+/* Скрываем заголовок страницы */
+.post > .post-title,
+h1.post-title,
+header .post-title,
 .post-title {
     display: none !important;
+    opacity: 0 !important;
     visibility: hidden !important;
-    height: 0 !important;
-    margin: 0 !important;
+    position: absolute !important;
+    width: 1px !important;
+    height: 1px !important;
     padding: 0 !important;
+    margin: -1px !important;
+    overflow: hidden !important;
+    clip: rect(0, 0, 0, 0) !important;
+    white-space: nowrap !important;
+    border: 0 !important;
 }
 
 /* Скрываем разделитель */
