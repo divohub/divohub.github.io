@@ -46,6 +46,40 @@ header .post-title,
     width: 32px;
     height: 32px;
 }
+
+.welcome-message {
+    text-align: center;
+    max-width: 600px;
+    margin: 2rem auto;
+    padding: 1.5rem;
+    background: var(--background-secondary);
+    border-radius: 12px;
+    font-size: 1.1rem;
+    line-height: 1.5;
+}
+
+.welcome-message p {
+    margin: 0;
+}
+
+.wave-emoji {
+    font-size: 1.4em;
+    margin-right: 0.3em;
+    display: inline-block;
+    animation: wave 2.5s infinite;
+    transform-origin: 70% 70%;
+}
+
+@keyframes wave {
+    0% { transform: rotate( 0.0deg) }
+    10% { transform: rotate(14.0deg) }
+    20% { transform: rotate(-8.0deg) }
+    30% { transform: rotate(14.0deg) }
+    40% { transform: rotate(-4.0deg) }
+    50% { transform: rotate(10.0deg) }
+    60% { transform: rotate( 0.0deg) }
+    100% { transform: rotate( 0.0deg) }
+}
 </style>
 
 <div class="wrapper">
@@ -54,6 +88,10 @@ header .post-title,
             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg>
             Connect With Me
         </h1>
+    </div>
+
+    <div class="welcome-message">
+        <p><span class="wave-emoji">👋</span>Привет! Последний пост про Splice сможете найти у меня в телеграмм канале!</p>
     </div>
 
     <div class="links-container">
@@ -79,6 +117,8 @@ header .post-title,
         </div>
     </div>
 </div>
+
+
 
 <style>
 .wrapper {
