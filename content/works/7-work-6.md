@@ -1,5 +1,5 @@
 ---
-title: "Roger Gallet - Music & Sound Design"
+title: "Roger Gallet - Sound Design"
 date: 2024-03-19
 draft: false
 type: works

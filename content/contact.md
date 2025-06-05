@@ -3,35 +3,74 @@ title = "Contact"
 layout = "page"
 +++
 
-# Let's Create Something Amazing Together!
-
-I'm always excited to take on new and interesting projects. Whether you have a specific idea in mind or just want to explore possibilities, we'd love to hear from you. 
-
 {{< rawhtml >}}
-<div class="contact-container">
-    <div class="contact-item">
-        <a href="mailto:hihi@divosound.com" target="_blank">
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-mail"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
-            <span>hihi@divosound.com</span>
-        </a>
+<style>
+/* Полностью скрываем заголовок страницы */
+.post-title {
+    display: none !important;
+    visibility: hidden !important;
+    height: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+/* Скрываем разделитель */
+.post hr {
+    display: none;
+}
+
+.page-header {
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.page-header h1 {
+    margin: 0;
+    text-align: center;
+}
+</style>
+
+<div class="wrapper">
+    <div class="page-header">
+        <h1>Let's Create Something Amazing Together!</h1>
     </div>
-    
-    <div class="contact-item">
-        <a href="https://t.me/httpdivo" target="_blank">
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-send"><line x1="22" y1="2" x2="11" y2="13"></line><polygon points="22 2 15 22 11 13 2 9 22 2"></polygon></svg>
-            <span>@httpdivo</span>
-        </a>
-    </div>
-    
-    <div class="contact-item">
-        <a href="https://instagram.com/divo.divo.divo" target="_blank">
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-instagram"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line></svg>
-            <span>@divo.divo.divo</span>
-        </a>
+
+    <p>I'm always excited to take on new and interesting projects. Whether you have a specific idea in mind or just want to explore possibilities, we'd love to hear from you.</p>
+
+    <div class="contact-container">
+        <div class="contact-item">
+            <a href="mailto:hihi@divosound.com" target="_blank">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-mail"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
+                <span>hihi@divosound.com</span>
+            </a>
+        </div>
+        
+        <div class="contact-item">
+            <a href="https://t.me/httpdivo" target="_blank">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-send"><line x1="22" y1="2" x2="11" y2="13"></line><polygon points="22 2 15 22 11 13 2 9 22 2"></polygon></svg>
+                <span>@httpdivo</span>
+            </a>
+        </div>
+        
+        <div class="contact-item">
+            <a href="https://instagram.com/divo.divo.divo" target="_blank">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-instagram"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line></svg>
+                <span>@divo.divo.divo</span>
+            </a>
+        </div>
     </div>
 </div>
 
 <style>
+.wrapper {
+    padding: 0 15px;
+}
+
+.wrapper p {
+    text-align: center;
+    margin: 20px 0;
+}
+
 .contact-container {
     display: flex;
     flex-direction: column;
@@ -42,6 +81,7 @@ I'm always excited to take on new and interesting projects. Whether you have a s
 .contact-item {
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 
 .contact-item a {
@@ -77,8 +117,8 @@ I'm always excited to take on new and interesting projects. Whether you have a s
 }
 
 .contact-item a:hover {
-    
+    animation: bounce 0.8s ease;
     background: var(--background-secondary);
 }
 </style>
-{{< /rawhtml >}} 
+{{< /rawhtml >}}

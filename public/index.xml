@@ -2,82 +2,82 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Music and Sound Design</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on Music and Sound Design</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>© 2024 All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>© 2025 All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Yandex Qatar - Music &amp; Sound Design</title>
-      <link>/works/1-yandex-qatar/</link>
+      <link>//localhost:1313/works/1-yandex-qatar/</link>
       <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/works/1-yandex-qatar/</guid>
+      <guid>//localhost:1313/works/1-yandex-qatar/</guid>
       <description>Created a short intro video with phygital.team for Yandex presentation. Crafted a sound design blending modern composition with Eastern musical elements to highlight innovation and cultural depth.</description>
     </item>
-    
     <item>
       <title>Roger Gallet - Sound Design</title>
-      <link>/works/2-work-1/</link>
+      <link>//localhost:1313/works/2-work-1/</link>
       <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/works/2-work-1/</guid>
+      <guid>//localhost:1313/works/2-work-1/</guid>
       <description>Collaboration with Clim Studio. Created detailed sound design for product presentation, featuring delicate bottle textures, dynamic transitions, and subtle ambient elements that enhance the product&amp;rsquo;s aesthetic.</description>
     </item>
-    
     <item>
-      <title>Mr Porter - Music &amp; Sound Design</title>
-      <link>/works/3-work-2/</link>
+      <title>Mr Porter - Sound Design</title>
+      <link>//localhost:1313/works/3-work-2/</link>
       <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/works/3-work-2/</guid>
+      <guid>//localhost:1313/works/3-work-2/</guid>
       <description>Collaboration with Clim Studio. Created a winter-themed sound design for Mr Porter&amp;rsquo;s seasonal campaign, featuring crisp snow textures and atmospheric elements that enhance the winter aesthetic.</description>
     </item>
-    
     <item>
       <title>Aurora - Music &amp; Sound Design</title>
-      <link>/works/4-work-3/</link>
+      <link>//localhost:1313/works/4-work-3/</link>
       <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/works/4-work-3/</guid>
+      <guid>//localhost:1313/works/4-work-3/</guid>
       <description>Created original music and sound design for Aurora BR-X keyboard presentation. Developed a technical yet light sound palette that emphasizes innovation and precision.</description>
     </item>
-    
     <item>
       <title>Yandex - Music &amp; Sound Design</title>
-      <link>/works/8-work-7/</link>
+      <link>//localhost:1313/works/8-work-7/</link>
       <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/works/8-work-7/</guid>
+      <guid>//localhost:1313/works/8-work-7/</guid>
       <description>Created music and sound design for Yandex Practicum service. Developed a technical, light, and bright sound palette that reflects the educational platform&amp;rsquo;s innovative approach.</description>
     </item>
-    
     <item>
-      <title>Mr Porter - Music &amp; Sound Design</title>
-      <link>/works/5-work-4/</link>
+      <title>Mr Porter - Sound Design</title>
+      <link>//localhost:1313/works/5-work-4/</link>
       <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/works/5-work-4/</guid>
+      <guid>//localhost:1313/works/5-work-4/</guid>
       <description>Part of the Mr Porter series. Created space-themed sound effects that enhance the cosmic atmosphere, featuring ethereal textures and dynamic transitions.</description>
     </item>
-    
     <item>
-      <title>Mr Porter - Music &amp; Sound Design</title>
-      <link>/works/6-work-5/</link>
+      <title>Mr Porter - Sound Design</title>
+      <link>//localhost:1313/works/6-work-5/</link>
       <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/works/6-work-5/</guid>
+      <guid>//localhost:1313/works/6-work-5/</guid>
       <description>Another installment in the Mr Porter series. Created airy sound effects that convey lightness and space, enhancing the visual narrative through subtle sonic elements.</description>
     </item>
-    
     <item>
-      <title>Roger Gallet - Music &amp; Sound Design</title>
-      <link>/works/7-work-6/</link>
+      <title>Roger Gallet - Sound Design</title>
+      <link>//localhost:1313/works/7-work-6/</link>
       <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/works/7-work-6/</guid>
+      <guid>//localhost:1313/works/7-work-6/</guid>
       <description>Continuation of the Roger Gallet series. Enhanced the product presentation with refined sound design elements that maintain brand consistency while introducing new sonic textures.</description>
     </item>
-    
+    <item>
+      <title>Contact</title>
+      <link>//localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/contact/</guid>
+      <description> Let&#39;s Create Something Amazing Together! I&#39;m always excited to take on new and interesting projects. Whether you have a specific idea in mind or just want to explore possibilities, we&#39;d love to hear from you.&#xA;hihi@divosound.com @httpdivo @divo.divo.divo </description>
+    </item>
+    <item>
+      <title>Links</title>
+      <link>//localhost:1313/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/links/</guid>
+      <description> Connect With Me PORTFOLIO TELEGRAM CHANNEL DM ME :) </description>
+    </item>
   </channel>
 </rss>

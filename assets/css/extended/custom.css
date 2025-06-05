@@ -1,0 +1,15 @@
+.post {
+  padding: 15px;
+}
+
+.post-content {
+  padding: 0 15px;
+}
+
+.post h1,
+.post h2,
+.post p {
+  text-align: left;
+  padding: 0;
+  margin-left: 0;
+} 

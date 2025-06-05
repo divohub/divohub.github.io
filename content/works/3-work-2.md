@@ -1,5 +1,5 @@
 ---
-title: "Mr Porter - Music & Sound Design"
+title: "Mr Porter - Sound Design"
 date: 2024-03-19
 draft: false
 type: works
