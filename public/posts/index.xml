@@ -6,13 +6,13 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>© 2025 All Rights Reserved</copyright>
-        <lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jun 2025 00:00:00 +0000</lastBuildDate>
         <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Alternative client for Splice</title>
             <link>//localhost:1313/posts/splice-relationship/</link>
-            <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+            <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
             
             <guid>//localhost:1313/posts/splice-relationship/</guid>
             <description>Personally, I have a weird relationship with Splice.
@@ -148,9 +148,11 @@ Using melodic samples from Splice, in my opinion, is straight-up insane.</descri
     <p>It used to be Windows-only, but I know a lot of people wanted to try it—so I made a small contribution to the project and built a Mac version.</p>
     
     <p>Enjoy!</p>
-    <a href="https://github.com/divohub/splicedd" class="button-container">
+    <div class="button-container">
+    <a href="https://github.com/divohub/splicedd" class="button">
         Download
     </a>
+    </div>
 
 </div>
 
