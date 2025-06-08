@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://divosound.com/"
 title = "Music and Sound Design"
 theme = "hello-friend-ng"
 environment = "production"
