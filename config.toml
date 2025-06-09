@@ -1,3 +1,5 @@
+publishDir = "public"
+canonifyURLs = true
 baseURL = "https://divosound.com/"
 title = "Music and Sound Design"
 theme = "hello-friend-ng"
@@ -59,8 +61,8 @@ environment = "production"
 
 [languages]
   [languages.en]
-    title = "Music and Sound Design"
-    subtitle = "Sound Designer & Composer"
+    title = "Sound Production Studio"
+    subtitle = "Sound Design and Music for Media"
     copyright = "© 2025 All Rights Reserved"
 
     [languages.en.params.logo]
