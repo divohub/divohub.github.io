@@ -11,17 +11,10 @@
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Yandex Youngcon - Music &amp; Sound Design</title>
-      <link>http://localhost:1313/works/1-yandex-qatar-copy/</link>
+      <link>http://localhost:1313/works/1-yandex-youngcon/</link>
       <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/works/1-yandex-qatar-copy/</guid>
+      <guid>http://localhost:1313/works/1-yandex-youngcon/</guid>
       <description>Sound design and audio post-production for the official opening trailer of Young Con, Yandex&amp;rsquo;s premier IT and career festival. This high-energy video was utilized to launch the main stage program and set the tone for an audience exceeding 10,000 attendees. The focus of the sound design was to enhance the visual momentum and emphasize the scale and innovation of the tech conference. The project involved direct collaboration with the talented Yandex creative team to ensure seamless integration of sound and visual storytelling.</description>
-    </item>
-    <item>
-      <title>Yandex Qatar - Music &amp; Sound Design</title>
-      <link>http://localhost:1313/works/2-yandex-qatar/</link>
-      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/works/2-yandex-qatar/</guid>
-      <description>Created a short intro video with phygital.team for Yandex presentation. Crafted a sound design blending modern composition with Eastern musical elements to highlight innovation and cultural depth.</description>
     </item>
     <item>
       <title>Roger Gallet - Sound Design</title>
@@ -29,6 +22,20 @@
       <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/works/2-work-1/</guid>
       <description>Collaboration with Clim Studio. Created detailed sound design for product presentation, featuring delicate bottle textures, dynamic transitions, and subtle ambient elements that enhance the product&amp;rsquo;s aesthetic.</description>
+    </item>
+    <item>
+      <title>UR TORUM- Sound Design</title>
+      <link>http://localhost:1313/works/2-ur-torum/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/2-ur-torum/</guid>
+      <description>A pioneering exploration of high-production Russian Dark Fantasy animation, realized with cutting-edge AI technology. Directed by Dmitry Alekseev. Our team delivered a stunning auditory experience featuring Voice Over and a meticulous, immersive Sound Design. A benchmark fusion of modern tools and epic storytelling.</description>
+    </item>
+    <item>
+      <title>Yandex Qatar - Music &amp; Sound Design</title>
+      <link>http://localhost:1313/works/2-yandex-beijing/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/2-yandex-beijing/</guid>
+      <description>Created a short intro video with phygital.team for Yandex presentation. Crafted a sound design blending modern composition with Eastern musical elements to highlight innovation and cultural depth.</description>
     </item>
     <item>
       <title>Mr Porter - Sound Design</title>
@@ -57,6 +64,13 @@
       <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/works/5-work-4/</guid>
       <description>Part of the Mr Porter series. Created space-themed sound effects that enhance the cosmic atmosphere, featuring ethereal textures and dynamic transitions.</description>
+    </item>
+    <item>
+      <title>Yandex Qatar - Music &amp; Sound Design</title>
+      <link>http://localhost:1313/works/2-yandex-qatar/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/2-yandex-qatar/</guid>
+      <description>Created a short intro video with phygital.team for Yandex presentation. Crafted a sound design blending modern composition with Eastern musical elements to highlight innovation and cultural depth.</description>
     </item>
     <item>
       <title>Mr Porter - Sound Design</title>
